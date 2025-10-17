@@ -1,4 +1,4 @@
-# Campus Crave - <a href="campuscrave.store">visit</a> 🍔
+# Campus Crave - <a href="https://campuscrave.store">visit</a> 🍔
 
 **Campus Crave** is a food marketplace designed specifically for university campuses. Many students and staff struggle to find time to grab a proper meal, and this app solves that problem by connecting food sellers and buyers directly on campus.
 
