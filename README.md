@@ -1,4 +1,4 @@
-# Campus Crave 🍔
+# Campus Crave - <a href="campuscrave.store">visit</a> 🍔
 
 **Campus Crave** is a food marketplace designed specifically for university campuses. Many students and staff struggle to find time to grab a proper meal, and this app solves that problem by connecting food sellers and buyers directly on campus.
 
@@ -33,7 +33,8 @@ Make sure you have the following installed:
 - Node.js (v18+ recommended)
 - npm or yarn
 - Docker (optional, for containerized setup)
-
+### Notes
+try to config the firebase with your cridentials if you want to check it in localhost.
 ### Installation
 
 1. **Clone the repository**
